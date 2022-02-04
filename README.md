@@ -1,4 +1,4 @@
-#Check the final result here
+# Check the final result here
 https://react-tenzies-game-hb.netlify.app/
 
 # Getting Started with Create React App
